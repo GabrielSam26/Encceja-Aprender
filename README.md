@@ -25,13 +25,17 @@ A aplicação foi desenvolvida com **React.js**, **Vite** e **Tailwind CSS**, ga
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/encceja-aprender.git
+   git clone https://github.com/GabrielSam26/Encceja-Aprender.git
 Instale as dependências:
+
+   ```bash
 
 cd encceja-aprender
 npm install
+```
+
 Inicie o projeto:
 
-
+```bash
 npm run dev
 Acesse a aplicação: Abra o navegador e vá para http://localhost:3000.
